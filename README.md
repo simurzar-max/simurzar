@@ -47,8 +47,9 @@ Analytically driven and detail-oriented data analyst with 2+ years of experience
 ---
 
 ## GitHub Statistics
-![Simurzar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simurzar&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simurzar&layout=compact&theme=default)
+![Simurzar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simurzar-max&show_icons=true&theme=default&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simurzar-max&layout=compact&theme=default)
+
 
 ---
 
@@ -59,7 +60,7 @@ English (Fluent) | Russian (Native) | Azerbaijani (Native) | French (Intermediat
 
 ## Contact
 📧 [simurzar@gmail.com](mailto:simurzar@gmail.com)  
-🔗 [linkedin.com/in/simurzar](https://linkedin.com/in/simurzar)
+🔗 https://www.linkedin.com/in/simurzar-farkhadova/
 
 ---
 
