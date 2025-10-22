@@ -1,7 +1,7 @@
 # Simurzar Farkhadova  
 
 **Junior–Middle Data Analyst**  
-📍 Warsaw, Poland | Open to relocate across EU  
+| Open to relocate across EU  
 📧 simurzar@gmail.com | [LinkedIn](https://www.linkedin.com/in/simurzar-farkhadova/)
 
 ---
